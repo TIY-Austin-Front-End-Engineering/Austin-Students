@@ -1,0 +1,37 @@
+nav {
+  padding: 0 20px;
+  height: 70px;
+  background-color: #000A3F;
+  border-bottom: 3px solid #152C76; }
+  nav img {
+    display: block;
+    float: left;
+    height: 50px;
+    margin: 10px 0; }
+  nav a {
+    display: block;
+    float: left;
+    padding: 0 20px;
+    color: #CFE5FF;
+    text-decoration: none;
+    height: 100%;
+    line-height: 70px;
+    font-size: 20px; }
+
+.hero {
+  background: url(../../images/austin.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  border-bottom: 3px solid #152C76; }
+
+.students {
+  margin: 0 20px; }
+
+.student h3 {
+  margin-bottom: 10px; }
+
+/*# sourceMappingURL=main.css.map */
